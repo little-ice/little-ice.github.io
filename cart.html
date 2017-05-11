@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/public.css">
+	<link rel="stylesheet" type="text/css" href="css/cart.css">
+	<link rel="stylesheet" type="text/css" href="font/iconfont.css">
+</head>
+<body>
+<!-- head -->
+<div class="head">
+	<div class="top">
+		<div class="headtop">
+			<div class="car">
+				<span class="iconfont">&#xe60c;</span>
+				<span>上海</span>
+			</div>
+			<ul>
+				<li class="user"><a href="enter.html">登录</a></li>
+				<li><a href="register.html">注册有惊喜</a></li>
+				<li><a href="">店主须知</a></li>
+				<li><a href="">会员答谢</a></li>
+				<li><a href="">卡卷激活</a></li>
+				<li>
+					<a href=""><span class="iconfont">&#xe634;</span>关注有礼</a>
+					
+					<div class="app">
+						<h1>选择下载APP的方式</h1>
+						<div class="phone">
+							<img src="img/phone.png">
+							<span class="or">OR</span>
+							<div class="load">
+								<p class="iconfont">&#xe601;</p>
+								<p>Andorid</p>
+								<p><span class="iconfont">&#xe601;</span>IPhone</p>
+							</div>
+						</div>
+						<div class="wechat">
+							<img src="img/wechart.png">
+							<span class="iconfont">&#xe6b7;</span>
+							<p>扫一扫关注人人一亩田微信公众号</p>
+						</div>
+					</div>	
+					
+				</li>
+				<li><a href=""><span class="iconfont">&#xe680;</span>400-658-1300</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="bottom">
+		<a href="index.html" class="logo"><img src="img/logo.png"></a>
+		<div class="flow">
+			<div class="first">
+				<div class="n">1</div>
+				<p >购物车</p>
+			</div>
+			<span class="line"></span>
+			<div class="next">
+				<div class="n">2</div>
+				<p >确认订单</p>
+			</div>
+			<span class="line"></span>
+			<div class="last">
+				<div class="n">3</div>
+				<p >提交订单</p>
+			</div>
+		</div>
+	</div>
+	
+</div>
+<!-- =======cart======== -->
+<div class="cart">
+	<div class="cart-top">
+		<span class="iconfont">&#xe603;</span>
+		我的购物车
+	</div>
+	<div class="cart-main">
+		<div class="cart-title">
+			<ul class="clearfix">
+				<li class="td td-checkbox">
+					<input type="checkbox" class="select-all-btn"/>
+					<span>全选</span>
+				</li>
+				<li class="td td-gname">
+					<div class="td-inner">商品</div>
+				</li>
+				<li class="td td-gstyle">商品信息</li>
+				<li class="td td-gprice">单价</li>
+				<li class="td td-gamount">数量</li>
+				<li class="td td-gmoney">金额</li>
+				<li class="td td-option">操作</li>
+			</ul>
+		</div>
+		<div class="cart-content">
+			
+		</div>
+		<div class="none"></div>
+		<div class="cart-foot">
+			
+			
+			<div class="options clearfix">
+				<div class="options-item select-all">
+					<input type="checkbox" class="select-all-btn">
+					<span>全选</span>
+				</div>
+				<div class="options-item delete">
+					<a href="#">删除</a>
+				</div>
+			</div>
+			<div class="cart-info clearfix">
+				<div class="info-item goods-amount">
+				已选商品<span class="user-goods-amount">0</span>件
+				</div>
+				<div class="info-item goods-money">
+				合计：不含运费<span class="user-goods-money">0.00</span>
+				</div>
+				<div class="info-item go-pay">结算</div>
+			</div>
+					
+		
+		</div>
+	</div>
+</div>
+<script type="text/html" id="goods-item">
+	{{each cart as v k}}
+	<ul class="cart-goods-item clearfix"  data-id="{{k}}">
+				<li class="td td-checkbox">
+					<input type="checkbox" class="select-btn"/>
+					
+				</li>
+				<li class="td td-gname">
+					<div class="td-inner">
+						<div class="goods-img">
+							<img src="img/nm2.jpg">
+						</div>
+						<div class="goods-name">
+							<a href="#">{{data.goods_name}}</a>
+						</div>
+					</div>
+				</li>
+				<li class="td td-gstyle">
+					<div class="goods-size">
+						<span class="size-tag">规格：</span>
+						<span class="size">{{data.size[k].type}}</span>
+					</div>
+				</li>
+				<li class="td td-gprice"  data-price="{{v.sale_price}}">
+					<span>￥</span>
+					<span class="goods-price">{{data.size[k].sale_price}}</span>
+				</li>
+				<li class="td td-gamount" data-stock="{{data.size[k].stock}}">
+					<div class="btn-l">-</div>
+					<input type="text" class="amount-input" value="{{v.amount}}">
+					<div class="btn-r">+</div>
+				</li>
+				<li class="td td-gmoney">
+					<span>￥</span>
+					<span class="price-all">{{data.size[k].sale_price*v.amount}}</span>
+				</li>
+				<li class="td td-option">
+					<a href="#" class="delete">删除</a>
+				</li>
+			</ul>
+	{{/each}}
+</script>
+<script data-main="js/cart" src="require.js" defer async="true"></script>
+</body>
+</html>

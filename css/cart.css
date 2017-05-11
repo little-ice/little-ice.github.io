@@ -1,0 +1,268 @@
+.head {
+  width: 100%;
+  height: 150px;
+  border-bottom: 1px solid #bbb;
+  margin-bottom: 25px; }
+
+.head .top {
+  height: 30px;
+  background: #F0F0F0; }
+
+.top .headtop {
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto; }
+
+.top .headtop .car {
+  float: left;
+  line-height: 30px; }
+  .top .headtop .car .iconfont {
+    float: left;
+    color: #599C3B;
+    font-size: 18px; }
+  .top .headtop .car span {
+    font-size: 14px;
+    color: #959494;
+    margin-right: 5px; }
+
+.top .headtop ul {
+  float: right;
+  line-height: 30px; }
+
+.top .headtop ul li {
+  float: left; }
+  .top .headtop ul li a {
+    padding: 0 12px;
+    border-right: 1px solid #ccc;
+    color: #959494;
+    font-size: 14px; }
+    .top .headtop ul li a .iconfont {
+      color: #599C3B; }
+    .top .headtop ul li a:hover {
+      color: #599C3B; }
+
+.headtop ul li:nth-child(7) a {
+  border-right: none; }
+
+.headtop ul li:nth-child(6) {
+  position: relative;
+  z-index: 1000; }
+  .headtop ul li:nth-child(6) .app {
+    display: none;
+    position: absolute;
+    top: 30px;
+    left: -104px;
+    width: 261px;
+    height: 218px;
+    padding: 10px 20px;
+    background: #fff; }
+  .headtop ul li:nth-child(6):hover .app {
+    display: block; }
+
+.app h1 {
+  font-size: 14px;
+  width: 100%;
+  text-align: center; }
+
+.app .phone {
+  height: 87px;
+  width: 100%; }
+  .app .phone img, .app .phone .or, .app .phone .load {
+    float: left;
+    width: 87px;
+    height: 87px; }
+  .app .phone .or {
+    line-height: 87px;
+    text-align: center; }
+
+.load p {
+  width: 100%;
+  height: 29px;
+  text-align: center;
+  color: #c2c2c2; }
+
+.load .iconfont {
+  color: #5a9c3b; }
+
+.load p:nth-child(2n+1) {
+  background: #E0FDEC; }
+
+.app .wechat {
+  width: 100%;
+  height: 87px;
+  margin-top: 15px; }
+  .app .wechat img, .app .wechat .iconfont, .app .wechat p {
+    float: left;
+    width: 87px;
+    height: 87px; }
+  .app .wechat p {
+    font-size: 16px;
+    line-height: 29px;
+    color: #c2c2c2; }
+  .app .wechat .iconfont {
+    line-height: 87px;
+    text-align: center;
+    color: #5A9C3B;
+    font-size: 30px; }
+
+.head .bottom {
+  width: 1200px;
+  height: 120px;
+  margin: 0 auto; }
+  .head .bottom .flow {
+    float: right;
+    margin-top: 20px; }
+    .head .bottom .flow .first, .head .bottom .flow .line, .head .bottom .flow .next, .head .bottom .flow .last {
+      text-align: center;
+      float: left; }
+      .head .bottom .flow .first .n, .head .bottom .flow .line .n, .head .bottom .flow .next .n, .head .bottom .flow .last .n {
+        width: 48px;
+        height: 48px;
+        border-radius: 24px;
+        background: #599B3B;
+        line-height: 48px;
+        text-align: center;
+        font-size: 24px;
+        color: #FFF; }
+      .head .bottom .flow .first p, .head .bottom .flow .line p, .head .bottom .flow .next p, .head .bottom .flow .last p {
+        margin-top: 15px;
+        color: #599B3B; }
+    .head .bottom .flow .next .n, .head .bottom .flow .last .n {
+      background: #CDCDCD; }
+    .head .bottom .flow .next p, .head .bottom .flow .last p {
+      color: #000; }
+    .head .bottom .flow .line {
+      width: 147px;
+      height: 2px;
+      background: #000;
+      margin-top: 24px; }
+  .head .bottom a.logo {
+    width: 280px;
+    float: left; }
+
+.cart {
+  width: 1200px;
+  margin: 0 auto; }
+  .cart .cart-top {
+    font-size: 18px;
+    color: #599B3B;
+    margin-bottom: 15px; }
+    .cart .cart-top .iconfont {
+      font-size: 26px;
+      font-weight: 600; }
+  .cart .cart-main {
+    width: 1198px;
+    border-top: 1px solid #bbb;
+    float: left; }
+    .cart .cart-main .none {
+      float: left;
+      width: 100%;
+      height: 40px;
+      border-bottom: 1px solid #bbb; }
+    .cart .cart-main .cart-title {
+      height: 48px;
+      border-bottom: 1px solid #bbb;
+      background: #F0F3EF;
+      line-height: 48px;
+      float: left; }
+      .cart .cart-main .cart-title .clearfix {
+        width: 1198px;
+        height: 48px;
+        float: left; }
+        .cart .cart-main .cart-title .clearfix .td {
+          float: left; }
+        .cart .cart-main .cart-title .clearfix .td-checkbox {
+          width: 150px;
+          text-align: center; }
+        .cart .cart-main .cart-title .clearfix .td-gname {
+          width: 300px;
+          text-align: center; }
+        .cart .cart-main .cart-title .clearfix .td-gstyle, .cart .cart-main .cart-title .clearfix .td-gamount {
+          width: 160px; }
+        .cart .cart-main .cart-title .clearfix .td-gprice, .cart .cart-main .cart-title .clearfix .td-gmoney {
+          width: 140px; }
+    .cart .cart-main .cart-content {
+      float: left; }
+      .cart .cart-main .cart-content .clearfix {
+        width: 1198px;
+        height: 90px;
+        float: left;
+        border-bottom: 1px solid #bbb;
+        padding: 10px 0; }
+        .cart .cart-main .cart-content .clearfix .td {
+          float: left; }
+        .cart .cart-main .cart-content .clearfix .td-checkbox {
+          width: 150px;
+          line-height: 90px;
+          height: 90px;
+          text-align: center; }
+        .cart .cart-main .cart-content .clearfix .td-gname {
+          width: 300px;
+          text-align: center; }
+          .cart .cart-main .cart-content .clearfix .td-gname .td-inner .goods-img {
+            float: left; }
+            .cart .cart-main .cart-content .clearfix .td-gname .td-inner .goods-img img {
+              width: 90px;
+              height: 90px; }
+          .cart .cart-main .cart-content .clearfix .td-gname .td-inner .goods-name {
+            float: left;
+            width: 100px;
+            line-height: 90px;
+            height: 90px;
+            font-size: 14px; }
+        .cart .cart-main .cart-content .clearfix .td-gstyle, .cart .cart-main .cart-content .clearfix .td-gamount {
+          width: 160px; }
+        .cart .cart-main .cart-content .clearfix .td-gprice, .cart .cart-main .cart-content .clearfix .td-gmoney {
+          width: 140px; }
+        .cart .cart-main .cart-content .clearfix .td-gstyle, .cart .cart-main .cart-content .clearfix .td-gprice, .cart .cart-main .cart-content .clearfix .td-gmoney, .cart .cart-main .cart-content .clearfix .td-option {
+          font-size: 14px;
+          height: 90px;
+          line-height: 90px; }
+        .cart .cart-main .cart-content .clearfix .td-gamount {
+          margin-top: 30px; }
+          .cart .cart-main .cart-content .clearfix .td-gamount .btn-l, .cart .cart-main .cart-content .clearfix .td-gamount .btn-r {
+            width: 20px;
+            height: 25px;
+            line-height: 25px;
+            text-align: center;
+            border: 1px solid #bbb;
+            float: left; }
+          .cart .cart-main .cart-content .clearfix .td-gamount .amount-input {
+            width: 30px;
+            height: 21px;
+            text-align: center;
+            float: left; }
+
+.cart-foot {
+  width: 1198px;
+  float: left;
+  font-size: 16px; }
+  .cart-foot .options {
+    float: left;
+    margin-top: 18px; }
+    .cart-foot .options .options-item {
+      float: left;
+      margin-left: 55px; }
+  .cart-foot .cart-info {
+    float: right; }
+    .cart-foot .cart-info .info-item {
+      float: left;
+      margin-left: 25px;
+      margin-top: 6px; }
+      .cart-foot .cart-info .info-item .user-goods-amount, .cart-foot .cart-info .info-item .user-goods-money {
+        color: #FF4400;
+        font-size: 24px;
+        margin: 0 5px; }
+    .cart-foot .cart-info .go-pay {
+      width: 120px;
+      height: 50px;
+      background: #aaa;
+      line-height: 50px;
+      text-align: center;
+      margin-top: 0;
+      color: #fff;
+      font-size: 20px; }
+    .cart-foot .cart-info .select {
+      background: #FF4400; }
+
+/*# sourceMappingURL=cart.css.map */

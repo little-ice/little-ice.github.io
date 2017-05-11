@@ -1,0 +1,44 @@
+
+	[
+			{
+				"name":"6人综合膳食搭配包",
+				"produceArea":"产地：崇明",
+				"price":"￥342.00",
+				"src":"img/g1.jpg",
+				"introduce":"8份膳食合理搭配蔬菜+2盒10枚装农场散养鸡蛋+1只农场散养鸡或2斤混装有机黑毛猪肉",
+				"productData":"1"
+			},
+			{
+				"name":"4人综合膳食搭配包",
+				"produceArea":"产地：崇明",
+				"price":"￥185.00",
+				"src":"img/g2.jpg",
+				"introduce":"5份膳食均衡搭配蔬菜+1盒10枚装农场散养蛋+1斤有机黑毛猪肉",
+				"productData":"2"
+			},
+			{
+				"name":"6人素宴膳食搭配包",
+				"produceArea":"产地：崇明",
+				"price":"￥158.00",
+				"src":"img/g3.jpg",
+				"introduce":"8份膳食合理搭配蔬菜+2盒10枚装农场散养蛋",
+				"productData":"3"
+			},
+			{
+				"name":"4人素宴膳食搭配包",
+				"produceArea":"产地：崇明",
+				"price":"￥99.00",
+				"src":"img/g4.jpg",
+				"introduce":"5份膳食均衡搭配蔬菜+1盒10枚装农场素养蛋",
+				"productData":"4"
+			}
+
+
+
+		]
+
+
+
+
+
+

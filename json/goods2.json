@@ -1,0 +1,627 @@
+[
+	{
+		"title":"田园时蔬",
+		"goods":[
+			{
+			"name":"小青菜—崇明",
+			"text1":"有机",
+			"icon1":"icon-yj",
+			"text2":"",
+			"icon2": "",
+			"produceArea":"产地：上海崇明",
+			"price":"￥25.00",
+			"src":"img/g17.jpg",
+			"introduce":"妈妈手里最百变的绿叶菜",
+			"productData":"17",
+			"status":""
+
+			},{
+			"name":"杭白菜-崇明",
+			"text1":"有机",
+			"icon1":"icon-yj",
+			"text2":"",
+			"icon2": "",
+			"produceArea":"产地：上海崇明",
+			"price":"￥21.00",
+			"src":"img/g18.jpg",
+			"introduce":"矿物质和维生素超丰富",
+			"productData":"18",
+			"status":""
+			},{
+			"name":"根甜菜—崇明",
+			"text1":"有机",
+			"icon1":"icon-yj",
+			"text2":"新品",
+			"icon2":"icon-xp",
+			"produceArea":"产地：上海崇明",
+			"price":"￥23.00",
+			"src":"img/g19.jpg",
+			"introduce":"甘甜 鲜嫩 松脆 多汁；人人一亩田有机农庄多年来一直努力在最大程度上杜绝农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害；有机种植的根茎类由于不用化学农药，容易被地下害虫侵害，品相会比普通蔬菜难看些，不过作为可以生吃、煮熟后作为沙拉混合吃、榨汁喝的多样品种，有机种植的根甜菜要更加安全和健康。",
+			"productData":"19",
+			"status":""
+			},{
+			"name":"杭菜薹-崇明",
+			"text1":"有机",
+			"icon1":"icon-yj",
+			"text2":"新品",
+			"icon2":"icon-xp",
+			"produceArea":"产地：上海崇明",
+			"price":"￥35.00",
+			"src":"img/g20.jpg",
+			"introduce":"春天，我们为你掐尖",
+			"productData":"20",
+			"status":""
+			},{
+			"name":"微辣炮椒-崇明",
+			"text1":"有机",
+			"icon1":"icon-yj",
+			"text2":"新品",
+			"icon2":"icon-xp",
+			"produceArea":"产地：上海崇明",
+			"price":"￥23.00",
+			"src":"img/g21.jpg",
+			"introduce":"别以为辣椒都是配角，虎皮青椒里我可是主角",
+			"productData":"21",
+			"status":""
+			},{
+			"name":"新鲜一级香菇-崇明地产",
+			"text1":"原生态",
+			"icon1": "icon-yst",
+			"text2":"",
+			"icon2": "",
+
+			"produceArea":"产地：上海崇明",
+			"price":"￥24.00",
+			"src":"img/g22.jpg",
+			"introduce":"香菇是具有高蛋白、低脂肪、多糖、多种氨基酸和多种维生素的菌类食物，含有丰富的食物纤维，经常食用能降低血液中的胆固醇。",
+			"productData":"22",
+			"status":""
+			},{
+			"name":"西葫芦-崇明",
+			"text1":"有机",
+			"icon1":"icon-yj",
+			"text2":"新品",
+			"icon2":"icon-xp",
+			"produceArea":"产地：上海崇明",
+			"price":"￥23.00",
+			"src":"img/g23.jpg",
+			"introduce":"可荤可素、可菜可馅，做菜百搭之品；人人一亩田有机农庄多年来一直努力在最大程度上杜绝农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"23",
+			"status":"售罄"
+			},{
+			"name":"碧玉西葫芦-崇明",
+			"text1":"有机",
+			"icon1":"icon-yj",
+			"text2":"新品",
+			"icon2":"icon-xp",
+			"produceArea":"产地：上海崇明",
+			"price":"￥25.00",
+			"src":"img/g24.jpg",
+			"introduce":"不要给西葫芦剥皮，因为这是营养价值最高的地方！人人一亩田有机农庄多年来一直努力在最大程度上杜绝农药、化肥、转基因种子，更加符合环境保护和人类健康的追求",
+			"productData":"24",
+			"status":"售罄"
+			}
+		]
+	},{
+		"title":"精选水果",
+		"goods":[
+			{
+			"name":"陕西高原红富士4个装",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"促销",
+			"produceArea":"产地：陕西",
+			"price":"￥29.80",
+			"src":"img/g25.jpg",
+			"introduce":"精选陕西红富士，其果形扁圆， 果肉黄白色，肉质致密，细脆、果汁多。酸甜适口，芳香味浓，品质极上",
+			"productData":"25",
+			"status":""
+
+			},{
+			"name":"美国新奇士橙4个装",
+			"text1":"进口",
+
+			"text2":"新品",
+			"produceArea":"产地：美国",
+			"price":"￥40.00",
+			"src":"img/g26.jpg",
+			"introduce":"皮薄多汁的健康VC之橙",
+			"productData":"26",
+			"status":""
+			},{
+			"name":"“西莫洛托”蜜瓜—1枚",
+			"text1":"原生态",
+			"icon1": "icon-yst",
+			"text2":"","icon2": "",
+			
+			"produceArea":"产地：南汇",
+			"price":"￥38.80",
+			"src":"img/g27.jpg",
+			"introduce":"“西莫洛托”甜瓜呈圆形，比一般蜜瓜更加圆润光洁，果皮为乳白色，果肉色白味美、肉质厚实松脆，水分多。",
+			"productData":"27",
+			"status":""
+			},{
+			"name":"海南金凤凰蜜瓜",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"新品",
+			"produceArea":"产地：海南",
+			"price":"￥180.00",
+			"src":"img/g28.jpg",
+			"introduce":"",
+			"productData":"28",
+			"status":""
+			},{
+			"name":"台湾水仙芒——礼盒装",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"",
+			"icon2": "",
+			"produceArea":"产地：海南",
+			"price":"￥138.00",
+			"src":"img/g29.jpg",
+			"introduce":"水仙芒果不仅口感好，营养丰富，还具有清肠胃的功效，对于晕车、晕船有一定的止吐作用。芒果还含有大量的维生素，因此经常食用芒果，可以起到滋润肌肤的作用。",
+			"productData":"29",
+			"status":""
+			},{
+			"name":"美国柠檬4个装",
+			"text1":"进口",
+			"text2":"促销",
+			"produceArea":"产地：美国",
+			"price":"￥39.00",
+			"src":"img/g30.jpg",
+			"introduce":"水果小清新、满满的柠檬酸",
+			"productData":"30",
+			"status":""
+			},{
+			"name":"台湾金钻凤梨",
+			"text1":"产地直供",
+			"text2":"","icon2": "",
+			"produceArea":"产地：台湾",
+			"price":"￥38.00",
+			"src":"img/g31.jpg",
+			"introduce":"",
+			"productData":"31",
+			"status":"售罄"
+			},{
+			"name":"以色列红西柚2个装",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：以色列",
+			"price":"￥25.00",
+			"src":"img/g32.jpg",
+			"introduce":"红西柚果实呈椭圆形，黄色外皮似橙子，果肉呈红色，果肉柔软细嫩，",
+			"productData":"32",
+			"status":"售罄"
+			}
+		]
+	},{
+		"title":"肉禽蛋品",
+		"goods":[
+			{
+			"name":"阿婆纯手工制作大肉粽——会员装",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"新品",
+			"produceArea":"产地：浙江",
+			"price":"￥128.00",
+			"src":"img/g33.jpg",
+			"introduce":"选用有机黑毛猪肉源于人人一亩田想要与您分享纯净、美好生活的理念。粽子的主要原材料是糯米，人人一亩田选用的有机糯米",
+			"productData":"33",
+			"status":""
+
+			},{
+			"name":"阿婆纯手工制作大肉粽——礼盒",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"新品",
+			"produceArea":"产地：浙江",
+			"price":"￥40.00",
+			"src":"img/g34.jpg",
+			"introduce":"选用有机黑毛猪肉源于人人一亩田想要与您分享纯净、美好生活的理念。",
+			"productData":"34",
+			"status":""
+			},{
+			"name":"有机黑毛猪纯精肉（250克）",
+			"text1":"有机",
+			"text2":"新品",
+			"produceArea":"产地：江苏",
+			"price":"￥49.00",
+			"src":"img/g35.jpg",
+			"introduce":"无污染、零添加、有机黑毛猪不一样的香醇",
+			"productData":"35",
+			"status":""
+			},{
+			"name":"10枚装林地散养土鸡蛋—崇明",
+			"text1":"有机",
+			"text2":"新品",
+			"produceArea":"产地：上海嵩明",
+			"price":"￥25.00",
+			"src":"img/g36.jpg",
+			"introduce":"吃着有机蔬菜长大的土鸡生的鸡蛋哦！人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"36",
+			"status":""
+			},{
+			"name":"365优选澳大利亚牛腩-500g",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：澳大利亚",
+			"price":"￥65.00",
+			"src":"img/g37.jpg",
+			"introduce":"选取牛胸腩部位制成，香味浓厚，肥瘦相间，肉质有弹性，蛋白质含量高，红烧、清炖滋味各有千秋，是不可多得的上等食材",
+			"productData":"37",
+			"status":""
+			},{
+			"name":"有机黑毛猪汤排骨(500克)",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：江苏",
+			"price":"￥78.00",
+			"src":"img/g38.jpg",
+			"introduce":"无污染、零添加、有机黑毛猪不一样的香醇",
+			"productData":"38",
+			"status":""
+			},{
+			"name":"有机黑毛猪小排(500克)",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：江苏",
+			"price":"￥75.00",
+			"src":"img/g39.jpg",
+			"introduce":"无污染、零添加、有机黑毛猪不一样的香醇",
+			"productData":"39",
+			"status":""
+			},{
+			"name":"有机黑毛猪五花肉(500克）",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：江苏",
+			"price":"￥88.00",
+			"src":"img/g40.jpg",
+			"introduce":"无污染、零添加、有机黑毛猪不一样的香醇",
+			"productData":"40",
+			"status":""
+			}
+		]
+	},{
+		"title":"海鲜水产",
+		"goods":[
+			{
+			"name":"厄瓜多尔白虾盒装-2kg",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：南美洲厄瓜多尔",
+			"price":"￥188.00",
+			"src":"img/g41.jpg",
+			"introduce":"全球直供，用最短的时间来运输海洋之星；人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"41",
+			"status":""
+
+			},{
+			"name":"越南虎虾虾仁200g",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：越南",
+			"price":"￥40.00",
+			"src":"img/g42.jpg",
+			"introduce":"人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"42",
+			"status":""
+			},{
+			"name":"阿根廷进口深海红虾—400g）",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：南美洲阿根廷",
+			"price":"￥98.00",
+			"src":"img/g43.jpg",
+			"introduce":"出水后即在-20℃以下快速冷冻，充分保持红虾的新鲜度和营养成分，确保红虾完美到达消费者餐桌。",
+			"productData":"43",
+			"status":""
+			},{
+			"name":"阿根廷鱿鱼花-500g",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：南美洲阿根廷",
+			"price":"￥25.00",
+			"src":"img/g44.jpg",
+			"introduce":"爆炒鱿鱼花是一道营养丰富，做法简单的海鲜菜肴。",
+			"productData":"44",
+			"status":""
+			},{
+			"name":"智利蓝口贝-500g",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：南美洲智利",
+			"price":"￥55.00",
+			"src":"img/g45.jpg",
+			"introduce":"深海直达，用最短的时间来运输海洋之星；人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"45",
+			"status":""
+			},{
+			"name":"智利野生鲍鱼-450g/(4-7只）",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：南美洲智利",
+			"price":"￥178.00",
+			"src":"img/g46.jpg",
+			"introduce":"深海直达，用最短的时间来运输海洋之星；人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"46",
+			"status":""
+			},{
+			"name":"越南虎虾虾仁—组合",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：越南",
+			"price":"￥138.00",
+			"src":"img/g47.jpg",
+			"introduce":"越南虎虾虾仁200g*3袋",
+			"productData":"47",
+			"status":""
+			},{
+			"name":"新西兰进口青口贝——450g",
+			"text1":"进口",
+			"text2":"","icon2": "",
+			"produceArea":"产地：大洋洲新西兰",
+			"price":"￥49.00",
+			"src":"img/g48.jpg",
+			"introduce":"深海直达，用最短的时间来运输海洋之星",
+			"productData":"48",
+			"status":"售罄"
+			}
+		]
+	},{
+		"title":"粮油杂货",
+		"goods":[
+			{
+			"name":"恒馨绿色香米 大米-5kg",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"促销",
+			"produceArea":"产地：中国江苏",
+			"price":"￥138.00",
+			"src":"img/g49.jpg",
+			"introduce":"产自鱼米之乡江苏句容，选用优质香米品种，采用有机种植方式种植，采用全自动分选包装工艺，确保大米质量",
+			"productData":"49",
+			"status":""
+
+			},{
+			"name":"有机私家米——南粳46",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中国江苏",
+			"price":"￥138.00",
+			"src":"img/g50.jpg",
+			"introduce":"中国江南享誉盛名的品种,人人一亩田合作期超过3年的恒馨米业出品有机新米,亩产不足200公斤；三态米：热饭、冷饭、隔夜饭口感独特美味",
+			"productData":"50",
+			"status":""
+			},{
+			"name":"有机小米-400g",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中国江苏",
+			"price":"￥28.00",
+			"src":"img/g51.jpg",
+			"introduce":"人人一亩田有机农庄多年来一直努力在最大程度上杜绝农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"51",
+			"status":""
+			},{
+			"name":"有机薏仁米-400g",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中国江苏",
+			"price":"￥43.00",
+			"src":"img/g52.jpg",
+			"introduce":"人人一亩田有机农庄多年来一直努力在最大程度上杜绝农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"52",
+			"status":""
+			},{
+			"name":"有机黑米-400g",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中国江苏",
+			"price":"￥32.00",
+			"src":"img/g53.jpg",
+			"introduce":"人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"53",
+			"status":""
+			},{
+			"name":"有机八宝米-400g",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中国江苏",
+			"price":"￥26.00",
+			"src":"img/g54.jpg",
+			"introduce":"人人一亩田品牌精选薏仁、红小豆、黄豆、紫糯米、黑米、绿豆等各种杂粮，并按照营养学比例混合而成，五色补五脏",
+			"productData":"54",
+			"status":""
+			},{
+			"name":"一亩田精品血糯米-400g",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中国江苏",
+			"price":"￥20.00",
+			"src":"img/g55.jpg",
+			"introduce":"人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"55",
+			"status":""
+			},{
+			"name":"健康杂粮礼盒",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中国江苏",
+			"price":"￥138.00",
+			"src":"img/g56.jpg",
+			"introduce":"人人一亩田品牌精选薏仁、红小豆、黄豆、紫糯米、黑米、绿豆，五色补五脏，早餐最佳五谷杂粮粥组合，3口之家估计可以享用1周",
+			"productData":"56",
+			"status":""
+			}
+		]
+	},{
+		"title":"家居必备",
+		"goods":[
+			{
+			"name":"手工制作马桥香干-特色崇明",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥21.00",
+			"src":"img/g57.jpg",
+			"introduce":"马桥香干500g，口感好，闻之清香，尝之味美多汁，不硬不软不松，更没有一般豆腐的腥味",
+			"productData":"57",
+			"status":""
+
+			},{
+			"name":"一朵新鲜有机银耳",
+			"text1":"有机",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中国湖南",
+			"price":"￥25.80",
+			"src":"img/g58.jpg",
+			"introduce":"(1)白，色泽天然 晶莹剔透 每一朵鲜银耳，晶莹剔透，洁白如花，散发着淡淡茉莉花香，天然的高品质，源自有机用心的栽培。(2)富，富含胶原蛋白 口感凝润 无需泡发一煮即糯的鲜银耳，完整保留活性物质，入口凝润弹滑，久久萦绕唇齿。更富含胶原蛋白，滋养润护身心。(3)美，每天一朵 润肺养颜 鲜银耳独有银耳多糖和天然胶质，更富含多种维生素和氨基酸，自古以来就是滋阴润肺、清润养颜的养生佳品.真可谓是”女人的美容院”。",
+			"productData":"58",
+			"status":""
+			},{
+			"name":"手工制作烧酱百叶结-特色崇明",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：中崇明",
+			"price":"￥15.00",
+			"src":"img/g59.jpg",
+			"introduce":"百叶结300g，又名豆腐皮或者千张。由百叶手工打结而成，色黄白，可凉拌，可清炒，可煮食。",
+			"productData":"59",
+			"status":""
+			},{
+			"name":"内脂豆腐-特色崇明",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥3.50",
+			"src":"img/g60.jpg",
+			"introduce":"内脂豆腐以β一葡萄糖酸内脂为凝固剂，其工艺简单，质地细腻洁白。推荐烹饪：肉末内脂豆腐、凉拌内脂豆腐、豆腐脑等",
+			"productData":"60",
+			"status":""
+			},{
+			"name":"手工制作红豆腐干-特色崇明",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥16.00",
+			"src":"img/g61.jpg",
+			"introduce":"烧酱红豆腐干500g，是豆腐的再加工制品，硬中带韧，咸香爽口;香干在制作过程中会添加食盐、茴香、花椒、大料、干姜等调料，再烧酱混合下，让口感更香既香又鲜，久吃不厌。",
+			"productData":"61",
+			"status":""
+			},{
+			"name":"手工制作豆腐衣-特色崇明",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"新品",
+			"produceArea":"产地：崇明",
+			"price":"￥26.00",
+			"src":"img/g62.jpg",
+			"introduce":"豆腐衣三张约70g左右，是煮熟的豆浆表面上结的薄皮，揭起晾干后供食用。推荐烹饪：琥珀汁豆腐衣百叶包、娃娃菜豆腐衣汤等",
+			"productData":"62",
+			"status":""
+			},{
+			"name":"手工制作烤麸-特色崇明",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥19.00",
+			"src":"img/g63.jpg",
+			"introduce":"烤麸400g，用带皮的麦子磨成麦麸面粉，而后在水中搓揉筛洗而分离出来的面筋，经发酵蒸熟制成的，呈海绵状，蛋白质含量高，也含有钙、磷与铁质。",
+			"productData":"63",
+			"status":""
+			},{
+			"name":"手工制作方百叶-特色崇明",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥24.00",
+			"src":"img/g64.jpg",
+			"introduce":"方百叶400g，又名豆腐皮，是豆制品一种，色黄白，可凉拌，可清炒，可煮食",
+			"productData":"64",
+			"status":""
+			}
+		]
+	},{
+		"title":"礼品&礼卡",
+		"goods":[
+			{
+			"name":"农庄体验家庭日",
+			"text1":"产地直供",
+			"text2":"促销",
+			"produceArea":"产地：崇明",
+			"price":"￥150.00",
+			"src":"img/g65.jpg",
+			"introduce":"陪伴一整个冬天的草莓就要下市啦，来农庄种菜，抓住草莓的尾巴",
+			"productData":"65",
+			"status":""
+
+			},{
+			"name":"精品林地散养土鸡蛋礼盒－实物",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥126.80",
+			"src":"img/g66.jpg",
+			"introduce":"内含：林地散养土鸡蛋30枚；人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"66",
+			"status":""
+			},{
+			"name":"精品崇明林地散养土鸡蛋-礼券",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥126.00",
+			"src":"img/g67.jpg",
+			"introduce":"人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"67",
+			"status":""
+			},{
+			"name":"私人订制-家庭农庄",
+			"text1":"产地直供",
+			"text2":"","icon2": "",
+			"produceArea":"产地",
+			"price":"￥35500.00",
+			"src":"img/g68.jpg",
+			"introduce":"可提供预约种植、蔬菜宅配，更有农场体验活动",
+			"productData":"68",
+			"status":""
+			},{
+			"name":"6人综合膳食搭配包",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥342.00",
+			"src":"img/g69.jpg",
+			"introduce":"8份膳食合理搭配蔬菜+2盒10枚装农场散养鸡蛋+1只农场散养鸡或2斤混装有机黑毛猪肉",
+			"productData":"69",
+			"status":""
+			},{
+			"name":"4人综合膳食搭配包",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥185.00",
+			"src":"img/g70.jpg",
+			"introduce":"5份膳食均衡搭配蔬菜+1盒10枚装农场散养蛋+1斤有机黑毛猪肉",
+			"productData":"70",
+			"status":""
+			},{
+			"name":"6人素宴膳食搭配包",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"","icon2": "",
+			"produceArea":"产地：崇明",
+			"price":"￥158.00",
+			"src":"img/g71.jpg",
+			"introduce":"8份膳食合理搭配蔬菜+2盒10枚装农场散养蛋",
+			"productData":"71",
+			"status":""
+			},{
+			"name":"有机时蔬礼盒组合",
+			"text1":"原生态","icon": "icon-yst",
+			"text2":"有机",
+			"produceArea":"产地：崇明",
+			"price":"￥138.00",
+			"src":"img/g72.jpg",
+			"introduce":"精选6份当季时令崇明地产的有机蔬菜，彩色礼盒包装，专人配送到家；人人一亩田有机农庄多年来一直努力在最大程度上杜绝激素、抗生素、农药、化肥、转基因种子、除草剂，种植蔬菜的过程更加符合环境保护，更多避免化学伤害",
+			"productData":"72",
+			"status":""
+			}
+		]
+	}
+
+]

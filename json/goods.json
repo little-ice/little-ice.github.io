@@ -1,0 +1,20 @@
+{
+	"goods_id": 10001,
+	"goods_name": "美国柠檬",
+	"goods_price": 59.00,
+	"goods_src":"../img/nm2.jpg",
+	"size":{
+		"1000101":{
+			"id":"1000101",
+			"type":"中果四颗",
+			"sale_price": "39.00",
+			"stock": 100
+		},
+		"1000102":{
+			"id":"1000102",
+			"type":"中大果四颗",
+			"sale_price": "49.00",
+			"stock": 89
+		}
+	}
+}

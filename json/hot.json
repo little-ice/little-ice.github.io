@@ -1,0 +1,45 @@
+[
+			{
+				"name":"有机黑毛猪五花肉(500克）",
+				"text1":"有机",
+				
+				"produceArea":"产地：江苏",
+				"price":"￥88.00",
+				"src":"img/g9.jpg",
+				"introduce":"无污染、零添加、有机黑毛猪不一样的香醇",
+				"productData":"9"
+			},
+			{
+				"name":"有机黑毛猪 肉糜（7：3）500克",
+				"text1":"有机",
+				
+				"produceArea":"产地：江苏",
+				"price":"￥75.00",
+				"src":"img/g10.jpg",
+				"introduce":"无污染、零添加、有机黑毛猪不一样的香醇",
+				"productData":"10"
+			},
+			{
+				"name":"阿根廷进口深海红虾—400g",
+				"text1":"进口",
+				
+				"produceArea":"产地：南美洲阿根廷",
+				"price":"￥98.00",
+				"src":"img/g11.jpg",
+				"introduce":"出水后即在-20℃以下快速冷冻，充分保持红虾的新鲜度和营养成分，确保红虾完美到达消费者餐桌。",
+				"productData":"11"
+			},
+			{
+				"name":"林地散养老母鸡（400天日龄）",
+				"text1":"原生态",
+				
+				"produceArea":"产地：安徽",
+				"price":"￥188.00",
+				"src":"img/g12.jpg",
+				"introduce":"吃五谷杂粮长大的老母鸡自由生长，无激素、无生长素，鸡肉味浓，清炖肉质紧致，汤鲜味美",
+				"productData":"12"
+			}
+
+
+
+		]
