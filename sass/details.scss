@@ -635,6 +635,7 @@ form input{
 	width: 1200px;
 	margin: 0 auto;
 	.like-title{
+		
 		.title{
 			font-size: 18px;
 			color: #599C3B;
@@ -654,6 +655,97 @@ form input{
 			.r{
 				width: 1100px;
 				border-color: #ccc;
+			}
+		}
+	}
+}
+.like-content{
+	width: 100%;
+	overflow: hidden;
+	.like-item{
+		width: 240px;
+		float: left;
+		.product {
+			width: 180px;
+			margin-left: 30px;
+			a img{
+			width: 176px;
+			height: 158px;
+			}
+		}
+		.info{
+			margin-left: 30px;
+			margin-bottom: 50px;
+			.info-goods{
+				p{
+				line-height: 25px;
+				font-size: 14px;
+				color: #666;
+					a{
+						color: #666;
+					}
+				}
+				.price .now{
+					font-size: 18px;
+					color: #599C3B;
+					margin-right: 5px;
+				}
+			}
+
+		}
+	}
+}
+.other{
+	width: 1200px;
+	overflow: hidden;
+	margin: 0 auto;
+	.other-l{
+		float: left;
+		width: 960px;
+		overflow: hidden;
+		.other-title{
+			height: 40px;
+			.title{
+				height:36px;
+				width: 960px;
+				overflow: hidden;
+				span{
+					float: left;
+					font-size: 18px;
+					
+					margin-bottom: 10px;
+					padding:0 15px;
+
+				}
+				.goods{
+					border-right:1px solid #bbb;
+					color: #599C3B;
+				}
+			}
+			.line{
+				span{
+					float: left;
+				}
+				.l{
+					width: 104px;
+					height: 0;
+					border-top: 3px solid #599C3B;
+				}
+				.m{
+					width: 104px;
+					height: 0;
+					border-top: 3px solid #bbb;
+				}
+				.r{
+					width: 752px;
+					height: 0;
+					border-top: 3px solid #bbb;
+				}
+			}
+		}
+		.other-content{
+			.content1{
+				margin: 55px 0 0 110px;
 			}
 		}
 	}
